@@ -1,3 +1,8 @@
+# Notice
+
+- [Click here](https://github.com/clovaai/assembled-cnn) for the original link.
+- If you want to register an issue, please do it on the original page.
+
 # Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network
 
 
